@@ -87,13 +87,20 @@ You can find detailed documentation inside the `docs/` folder:
 
 ---
 
+
 ## Power BI Dashboard
 
-An interactive Power BI dashboard has been added to visually explore and present the key insights from the dataset.
+An interactive Power BI dashboard was created to visualize cryptocurrency trends, including price fluctuations, liquidity predictions, and trading volume insights.
 
 📁 Location: dashboards/Cryptocurrency_Project.pbix
 
+📄 Dashboard PDF Preview: https://github.com/Progati00/CryptoLiquidityPrediction/blob/main/dashboards/Cryptocurrency_Project.pdf
+Cryptocurrency Project Dashboard (PDF)
+
+This PDF provides a static view of the Power BI dashboard for easier access and preview, especially for users who do not have Power BI installed.
+
 ---
+
 
 ## 👤 Author
 
