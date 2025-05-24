@@ -87,6 +87,14 @@ You can find detailed documentation inside the `docs/` folder:
 
 ---
 
+## Power BI Dashboard
+
+An interactive Power BI dashboard has been added to visually explore and present the key insights from the dataset.
+
+📁 Location: dashboards/Cryptocurrency_Project.pbix
+
+---
+
 ## 👤 Author
 
 **Progati Podder**
